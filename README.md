@@ -1,6 +1,7 @@
 # react_gym
 
-Projeto realizado em React com sistema de rotas utilizando a biblioteca padrão, react-router-dom.
+Esse projeto é um sistema responsivo para academia que conta com várias abas e diferentes rotas, como: planos, galeria, preços, contatos e informações gerais. 
+Foi desenvolvido com React e utiliza uma biblioteca padrão de rotas, react-router-dom.
 
 
  ##
@@ -14,6 +15,7 @@ Projeto realizado em React com sistema de rotas utilizando a biblioteca padrão,
   <img width="460"src="src/assets/to_readme/7.png">
   </p>
   
+  
 
 ### Instalação
 `npm install`
@@ -21,4 +23,4 @@ Projeto realizado em React com sistema de rotas utilizando a biblioteca padrão,
 ### Para rodar o projeto
 `npm run start`
 
-### [Clique aqui para ver o projeto]()
+### [Clique aqui para ver o projeto](https://react-gym-three.vercel.app/about)
