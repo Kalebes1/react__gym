@@ -23,4 +23,4 @@ Foi desenvolvido com React e utiliza uma biblioteca padrão de rotas, react-rout
 ### Para rodar o projeto
 `npm run start`
 
-### [Clique aqui para ver o projeto](https://react-gym-three.vercel.app/about)
+### [Clique aqui para ver o projeto](https://react-gym-three.vercel.app)
